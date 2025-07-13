@@ -13,9 +13,9 @@ Each word in this archive is:
 
 ## 📖 Browse the Codex
 
-- [`grace`](_words/grace.md)
-- [`exodus`](_words/exodus.md)
-- [`freedom`](_words/freedom.md)
+- [`grace`](words/grace.md)
+- [`exodus`](words/exodus.md)
+- [`freedom`](words/freedom.md)
 
 ---
 
