@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "3a007b50d4b06bff",
+    "type": "split",
+    "children": [
+      {
+        "id": "40adaa026518d607",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0505eb379663d3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "words/wilderness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "wilderness"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7afb2aec18e3f04e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c51345819f597bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31952076183c4d93",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba1d2b995e9e62e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c134e3a70c825a6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "60a466c189ce1718",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6c7332b0532e41c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ec55ed6e897899d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "words/wilderness.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for wilderness"
+            }
+          },
+          {
+            "id": "fe6f889ed23b1f94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "words/wilderness.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from wilderness"
+            }
+          },
+          {
+            "id": "f2325e2374cfd583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d52835076bb8fd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "words/wilderness.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of wilderness"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d0505eb379663d3f",
+  "lastOpenFiles": [
+    "words/letting_go.md",
+    "words/mercy.md",
+    "words/wilderness.md"
+  ]
+}
