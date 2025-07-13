@@ -13,10 +13,13 @@ Each word in this archive is:
 
 ## 📖 Browse the Codex
 
-- [`grace`](words/grace.md)
-- [`exodus`](words/exodus.md)
-- [`freedom`](words/freedom.md)
+- [Grace](words/grace.md)
+- [Exodus](words/exodus.md)
+- [Freedom](words/freedom.md)
+- [Mercy](words/mercy.md)
+- [Letting Go](words/letting_go.md)
+- [Wilderness](words/wilderness.md)
 
 ---
 
-🔮 More coming soon: mercy · flame · letting go · karma · wilderness · covenant
+🔮 More coming soon: flame · karma · covenant
