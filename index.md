@@ -13,12 +13,12 @@ Each word in this archive is:
 
 ## 📖 Browse the Codex
 
-- [Grace](words/grace.md)
-- [Exodus](words/exodus.md)
-- [Freedom](words/freedom.md)
-- [Mercy](words/mercy.md)
-- [Letting Go](words/letting_go.md)
-- [Wilderness](words/wilderness.md)
+- [`Grace`](words/grace.md)
+- [`Exodus`](words/exodus.md)
+- [`Freedom`](words/freedom.md)
+- [`Mercy`](words/mercy.md)
+- [`Letting Go`](words/letting_go.md)
+- [`Wilderness`](words/wilderness.md)
 
 ---
 
