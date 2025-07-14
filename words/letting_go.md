@@ -21,3 +21,18 @@ Chorus hook of “Die Before You Die”
 
 **Shrine Symbol:**  
 Open palm with petals falling through it
+
+## 🔗 Related Scriptures
+...
+
+## 🎵 Related Lyrics / Draft Lines
+...
+
+## ✍️ Personal Notes / Journal Pulls
+...
+
+## 📘 Related Literary Quotes
+...
+
+## 🪶 Hashtags & Tags
+#lettinggo

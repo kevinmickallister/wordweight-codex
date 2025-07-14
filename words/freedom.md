@@ -21,3 +21,20 @@ Track 6: “Free Even in Chains”
 
 **Shrine Symbol:**  
 Open gate with roots on one side, wings on the other
+
+---
+
+## 🔗 Related Scriptures
+...
+
+## 🎵 Related Lyrics / Draft Lines
+...
+
+## ✍️ Personal Notes / Journal Pulls
+...
+
+## 📘 Related Literary Quotes
+...
+
+## 🪶 Hashtags & Tags
+#freedom #choice #divinewill #sovereignty #agency

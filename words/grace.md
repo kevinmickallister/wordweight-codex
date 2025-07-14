@@ -21,3 +21,21 @@ Outro hook on “Letting Go” — “I didn’t earn the love, but I leaned int
 
 **Shrine Symbol:**  
 Dove in Light ☁️🕊
+
+---
+
+## 🔗 Related Scriptures
+...
+
+## 🎵 Related Lyrics / Draft Lines
+...
+
+## ✍️ Personal Notes / Journal Pulls
+...
+
+## 📘 Related Literary Quotes
+...
+
+## 🪶 Hashtags & Tags
+#grace #undeserved #favor #release #sovereignty #2corinthians
+

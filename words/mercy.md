@@ -21,3 +21,18 @@ Bridge of “Unworthy / Still Chosen”
 
 **Shrine Symbol:**  
 A hand releasing a thorn-crowned bird
+
+## 🔗 Related Scriptures
+...
+
+## 🎵 Related Lyrics / Draft Lines
+...
+
+## ✍️ Personal Notes / Journal Pulls
+...
+
+## 📘 Related Literary Quotes
+...
+
+## 🪶 Hashtags & Tags
+#mercy 

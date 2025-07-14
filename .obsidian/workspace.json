@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40adaa026518d607",
+        "id": "d761e0c91659d3b2",
         "type": "tabs",
         "children": [
           {
-            "id": "d0505eb379663d3f",
+            "id": "4ac4f09f414bacf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "words/wilderness.md",
+                "file": "corpora/music_is_an_addiction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "wilderness"
+              "title": "music_is_an_addiction"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/wilderness.md",
+                "file": "corpora/music_is_an_addiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for wilderness"
+              "title": "Backlinks for music_is_an_addiction"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "words/wilderness.md",
+                "file": "corpora/truth_as_pathless_land.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from wilderness"
+              "title": "Outgoing links from truth_as_pathless_land"
             }
           },
           {
@@ -142,21 +142,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "words/wilderness.md",
+                "file": "corpora/truth_as_pathless_land.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of wilderness"
+              "title": "Outline of truth_as_pathless_land"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +167,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0505eb379663d3f",
+  "active": "4ac4f09f414bacf3",
   "lastOpenFiles": [
-    "words/letting_go.md",
-    "words/mercy.md",
-    "words/wilderness.md"
+    "words/expression.md",
+    "corpora/music_is_an_addiction.md",
+    "words/compulsion.md",
+    "corpora/index.md",
+    "words/music.md",
+    "corpora/may_fisherman.md",
+    "corpora/eyes_undefeated.md",
+    "corpora/first_you_borrow.md",
+    "corpora/salao.md",
+    "corpora/sacred_heart_relic.md",
+    "corpora/the_pathless_land.md",
+    "corpora/when_i_have_sardines.md",
+    "corpora/text corpora template.md",
+    "corpora/Anyone.md",
+    "Anyone.md",
+    "words/mastery.md",
+    "words/resilience.md",
+    "words/adversity.md",
+    "words/effort.md",
+    "words/seasons.md",
+    "words/ease.md",
+    "words/faith.md",
+    "words/wilderness.md",
+    "words/boundaries.md",
+    "words/humility.md",
+    "words/choice.md",
+    "shrine-threads",
+    "codex-gpt",
+    "corpora"
   ]
 }

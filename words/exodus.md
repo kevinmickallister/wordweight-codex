@@ -21,3 +21,18 @@ Track 2, “Mirage of the Masters” — “Pharaoh lives in my marrow. But so d
 
 **Shrine Symbol:**  
 Broken chain links turning into stairs
+
+## 🔗 Related Scriptures
+...
+
+## 🎵 Related Lyrics / Draft Lines
+...
+
+## ✍️ Personal Notes / Journal Pulls
+...
+
+## 📘 Related Literary Quotes
+...
+
+## 🪶 Hashtags & Tags
+#exodus #slavery
